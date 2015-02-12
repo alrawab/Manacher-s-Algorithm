@@ -1,6 +1,7 @@
 /*Manacher's algorithm is used to find the longest palindrome in a string in O(n) time.
  @author Anna Hwang
  @github hwangas
+ @date Feb 12, 2015
 */
 
 #include <iostream>
